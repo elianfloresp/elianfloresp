@@ -1,6 +1,6 @@
-- 👋 Olá, meu nome Elian
-- 👀 Aqui vou deixar um pouco da minha tragetória e estudos ao longo do tempo
-- 📖 Estou Cursando Técnologias e Sistemas para Internet
+- 💻 Frond-end student...
+- 📚 Estudante de Sitemas para Internet
+- 😍 Apaixonado por Técnologia
 
 <!---
 elianfloresp/elianfloresp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
