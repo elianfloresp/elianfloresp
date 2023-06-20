@@ -1,5 +1,5 @@
 - 💻 Frond-end student...
-- 📚 Estudante de Sitemas para Internet
+- 📚 Estudante de Sistemas para Internet
 - 😍 Apaixonado por Técnologia
 
 <!---
