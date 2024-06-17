@@ -1,4 +1,4 @@
-- 💻 Frond-end student...
+- 💻 Frond-end Developer
 - 📚 Estudante de Sistemas para Internet
 - 😍 Apaixonado por Técnologia
 
