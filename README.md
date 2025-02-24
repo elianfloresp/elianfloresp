@@ -1,5 +1,5 @@
 - 💻 Frond-end Developer
-- 📚 Estudante de Sistemas para Internet
+- 📚 Estudante de Analise e Desenvolvimento de Sistemas
 - 😍 Apaixonado por Técnologia
 
 <!---
