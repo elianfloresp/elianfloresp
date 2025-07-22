@@ -11,7 +11,7 @@ I have solid experience with reusable components, responsive development, REST a
 
 I'm proactive, communicative, and collaborative, and I enjoy working in teams to build solutions that bring real value to both product and business.
 
-I'm open to new challenges and opportunities — feel free to reach out for a chat! 😄
+
 
 ---
 
@@ -46,7 +46,7 @@ Tenho experiência na criação de componentes reutilizáveis, desenvolvimento r
 
 Sou proativo, comunicativo e colaborativo, e gosto de trabalhar em equipe para encontrar soluções que realmente agreguem valor ao projeto e ao negócio.
 
-Estou aberto a novos desafios — será um prazer bater um papo! 😄
+
 
 ---
 
