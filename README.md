@@ -1,6 +1,6 @@
 # 🇧🇷 Olá, tudo bem?
 
-Sou **Elian Flores**, desenvolvedor front-end com mais de **3 anos de experiência**, especializado no desenvolvimento de interfaces, e-commerces e aplicações web com **React.js**, **Next.js**, **TypeScript**, **Tailwind CSS** e plataformas como **VTEX IO**, **Shopify** e **WordPress**.
+Sou **Elian Flores**, desenvolvedor front-end com mais de **4 anos de experiência**, especializado no desenvolvimento de interfaces, e-commerces e aplicações web com **React.js**, **Next.js**, **TypeScript**, **Tailwind CSS** e plataformas como **VTEX IO**, **Shopify** e **WordPress**.
 
 Tenho experiência na criação de componentes reutilizáveis, desenvolvimento responsivo, integrações com APIs REST e GraphQL, e aplicação de boas práticas como **Design Patterns**, **Micro Frontends** e **Mobile First**.
 
